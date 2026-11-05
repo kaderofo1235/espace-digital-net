@@ -1,1 +1,73 @@
-content://com.google.android.apps.nbu.files.provider/2/1000007698#contact
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#071a33">
+  <meta name="description" content="ESPACE DIGITAL NET à Oran : informatique, réseaux, vidéosurveillance et création publicitaire. Contactez-nous pour un devis.">
+  <title>ESPACE DIGITAL NET | Informatique, Réseaux & Vidéosurveillance à Oran</title>
+  <style>
+    :root{--navy:#071a33;--blue:#1769e0;--cyan:#22c4d6;--ink:#15243a;--muted:#63738a;--paper:#f5f8fc;--white:#fff}
+    *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font-family:Arial,Helvetica,sans-serif;color:var(--ink);background:var(--white);line-height:1.6}
+    a{color:inherit;text-decoration:none}.wrap{width:min(1120px,92%);margin:auto}
+    header{position:sticky;top:0;z-index:10;background:rgba(7,26,51,.96);backdrop-filter:blur(10px);color:white;border-bottom:1px solid #ffffff1c}
+    .nav{height:72px;display:flex;align-items:center;justify-content:space-between;gap:18px}.brand{font-weight:800;letter-spacing:.4px;font-size:18px}.brand span{color:var(--cyan)}
+    nav{display:flex;gap:24px;font-size:14px;color:#e5efff}nav a:hover{color:var(--cyan)}
+    .hero{background:radial-gradient(circle at 85% 25%,#1769e055,transparent 32%),linear-gradient(125deg,#071a33,#0b2c56 70%,#0c4772);color:white;padding:90px 0 84px;overflow:hidden}
+    .hero-grid{display:grid;grid-template-columns:1.3fr .7fr;align-items:center;gap:40px}.eyebrow{color:#75e5ed;font-weight:700;text-transform:uppercase;letter-spacing:2px;font-size:12px}
+    h1{font-size:clamp(36px,5.5vw,60px);line-height:1.08;margin:16px 0 18px;letter-spacing:-1.5px}.hero p{color:#d8e6f8;font-size:18px;max-width:620px}
+    .actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:28px}.btn{display:inline-flex;align-items:center;justify-content:center;padding:13px 20px;border-radius:10px;font-weight:700;transition:.2s}.btn:hover{transform:translateY(-2px)}
+    .primary{background:var(--cyan);color:#05233c}.secondary{border:1px solid #ffffff80;color:white}.visual{min-height:270px;border:1px solid #ffffff30;border-radius:28px;background:linear-gradient(145deg,#ffffff20,#ffffff08);display:grid;place-items:center;padding:26px;box-shadow:0 24px 60px #0003}
+    .visual-icon{font-size:100px;filter:drop-shadow(0 15px 25px #0005)}.visual small{display:block;color:#d8e6f8;text-align:center;margin-top:8px}
+    section{padding:76px 0}.section-head{text-align:center;max-width:700px;margin:0 auto 38px}.section-head h2{font-size:clamp(28px,4vw,38px);margin:0 0 10px;color:var(--navy)}.section-head p{color:var(--muted);margin:0}
+    .services{background:var(--paper)}.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}.card{background:white;border:1px solid #e7edf5;border-radius:16px;padding:25px 21px;box-shadow:0 8px 24px #102b4b08}.card .ico{font-size:34px}.card h3{margin:13px 0 8px;color:var(--navy);font-size:18px}.card p{margin:0;color:var(--muted);font-size:14px}
+    .about-grid{display:grid;grid-template-columns:1fr 1fr;gap:42px;align-items:center}.about-panel{background:linear-gradient(140deg,#eaf4ff,#e9fbfc);border-radius:22px;padding:32px}.about-panel strong{font-size:20px;color:var(--navy)}.ticks{padding:0;list-style:none}.ticks li{margin:12px 0;color:#40536c}.ticks li:before{content:"✓";color:#078b9c;font-weight:bold;margin-right:10px}
+    .contact{background:var(--navy);color:white}.contact .section-head h2{color:white}.contact .section-head p{color:#cad8ea}.contact-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.contact-card{border:1px solid #ffffff2b;border-radius:14px;padding:22px;background:#ffffff0b}.contact-card b{display:block;color:#7ee5ed;margin-bottom:6px}.contact-card span{color:#edf5ff;overflow-wrap:anywhere}
+    footer{background:#041225;color:#aebed2;text-align:center;padding:22px;font-size:13px}
+    .float-wa{position:fixed;right:20px;bottom:20px;z-index:20;background:#20c66b;color:white;border-radius:999px;padding:14px 18px;font-weight:800;box-shadow:0 8px 24px #0003}
+    @media(max-width:850px){.hero-grid{grid-template-columns:1fr}.visual{min-height:180px}.visual-icon{font-size:72px}.cards{grid-template-columns:repeat(2,1fr)}}
+    @media(max-width:560px){.nav{height:auto;min-height:66px;flex-wrap:wrap;padding:13px 0}nav{width:100%;justify-content:space-between;gap:10px;font-size:12px}.hero{padding:62px 0}.cards,.about-grid,.contact-grid{grid-template-columns:1fr}section{padding:58px 0}.float-wa{right:12px;bottom:12px;padding:12px 15px}}
+  </style>
+</head>
+<body>
+<header><div class="wrap nav">
+  <a class="brand" href="#accueil">ESPACE <span>DIGITAL</span> NET</a>
+  <nav aria-label="Navigation principale"><a href="#accueil">Accueil</a><a href="#services">Services</a><a href="#apropos">À propos</a><a href="#contact">Contact</a></nav>
+</div></header>
+<main>
+  <section class="hero" id="accueil"><div class="wrap hero-grid">
+    <div><div class="eyebrow">Votre partenaire numérique à Oran</div>
+      <h1>La technologie au service de votre activité.</h1>
+      <p>Solutions informatiques, installation de réseaux, vidéosurveillance et créations publicitaires : nous vous accompagnons avec des services pratiques et professionnels.</p>
+      <div class="actions"><a class="btn primary" href="https://wa.me/213671010179?text=Bonjour%20ESPACE%20DIGITAL%20NET%2C%20je%20souhaite%20un%20devis." target="_blank" rel="noopener">Demander un devis WhatsApp</a><a class="btn secondary" href="#services">Découvrir nos services</a></div>
+    </div>
+    <div class="visual"><div><div class="visual-icon">💻</div><small>Informatique • Réseaux • Sécurité • Design</small></div></div>
+  </div></section>
+  <section class="services" id="services"><div class="wrap">
+    <div class="section-head"><h2>Nos services</h2><p>Des solutions adaptées aux particuliers, commerces et petites entreprises.</p></div>
+    <div class="cards">
+      <article class="card"><div class="ico">🖥️</div><h3>Informatique</h3><p>Vente, installation, maintenance et dépannage de matériel informatique.</p></article>
+      <article class="card"><div class="ico">🌐</div><h3>Réseaux</h3><p>Installation, configuration et maintenance de réseaux informatiques.</p></article>
+      <article class="card"><div class="ico">📹</div><h3>Vidéosurveillance</h3><p>Installation et configuration de systèmes de caméras et de surveillance.</p></article>
+      <article class="card"><div class="ico">🎨</div><h3>Création publicitaire</h3><p>Visuels promotionnels pour réseaux sociaux, affiches et supports numériques.</p></article>
+    </div>
+  </div></section>
+  <section id="apropos"><div class="wrap about-grid">
+    <div><div class="eyebrow" style="color:#087f9c">À propos</div><h2 style="font-size:34px;line-height:1.15;color:#071a33">Un seul partenaire pour vos besoins numériques.</h2>
+      <p style="color:#63738a">ESPACE DIGITAL NET accompagne ses clients à Oran et à distance pour leurs besoins en informatique, connectivité, sécurité et communication visuelle.</p>
+    </div>
+    <div class="about-panel"><strong>Pourquoi nous contacter ?</strong><ul class="ticks"><li>Écoute de votre besoin et conseils adaptés</li><li>Services pour particuliers et professionnels</li><li>Accompagnement à Oran et à distance</li><li>Contact direct pour demander un devis</li></ul></div>
+  </div></section>
+  <section class="contact" id="contact"><div class="wrap">
+    <div class="section-head"><h2>Parlons de votre projet</h2><p>Contactez-nous pour poser une question ou demander un devis.</p></div>
+    <div class="contact-grid">
+      <a class="contact-card" href="tel:+213671010179"><b>📞 Téléphone</b><span>0671 01 01 79</span></a>
+      <a class="contact-card" href="mailto:kaderofo1235@gmail.com"><b>✉️ E-mail</b><span>kaderofo1235@gmail.com</span></a>
+      <div class="contact-card"><b>📍 Localisation</b><span>Oran, Algérie</span></div>
+    </div>
+    <div class="actions" style="justify-content:center"><a class="btn primary" href="https://wa.me/213671010179?text=Bonjour%2C%20je%20souhaite%20des%20informations%20sur%20vos%20services." target="_blank" rel="noopener">Écrire sur WhatsApp</a></div>
+  </div></section>
+</main>
+<footer>© <span id="year">2026</span> ESPACE DIGITAL NET — Oran, Algérie. Tous droits réservés.</footer>
+<a class="float-wa" href="https://wa.me/213671010179" target="_blank" rel="noopener" aria-label="Contacter ESPACE DIGITAL NET sur WhatsApp">WhatsApp</a>
+</body></html>
